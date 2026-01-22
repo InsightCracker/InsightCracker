@@ -1,10 +1,10 @@
 <div align='center'>
 <h1>Hi 👋🏻, I'm Michael</h1>
 
-I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Analysis. Looking for new opportunites
+Accounting graduate and Data Analyst transitioning from Frontend development to data analytics, open to new opportunities.
 
-<a href="https://www.twitter.com/InsightCracker" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/InsightCracker" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=61DAFB" alt="LinkedIn"></a>
+<a href="https://www.twitter.com/InsightCracker" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Twitter"></a>
 </div>
 <div align='center'> 
   
@@ -24,6 +24,7 @@ I'm an accounting graduate | Data Analyst, transiting from FrontEnd to Data Anal
 ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=mySQL&logoColor=61DAFB)
 ![Power BI](https://img.shields.io/badge/-PowerBI-222222?style=flat&logo=powerbi&logoColor=61DAFB)
 ![SSMS](https://img.shields.io/badge/-SSMS-222222?style=flat&logo=&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoColor=F05032)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 
 ### Stats
