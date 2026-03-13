@@ -49,7 +49,7 @@ Features include:
 - Practice questions on Excel, SQL, and Power BI
 - PDF Converter to XLXS and CSV
 
-📈 Insurance Risk Dashboard
+📈 <a href= 'https://github.com/InsightCracker/Insurance-Risk-Analysis'>Insurance Risk Dashboard</a>
 - Built an interactive Power BI dashboard analyzing insurance claims and risk patterns.
 - Identified key trends in claim frequency, loss ratios, and policy performance.
 - Provided insights to support risk management decisions.
