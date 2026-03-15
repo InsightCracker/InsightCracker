@@ -1,7 +1,7 @@
 <div align='center'>
 <h1>Hi 👋🏻, I'm Michael</h1>
 
-🎓 Accounting Graduate | 📊 Data Analyst | 💻 Former Frontend Developer
+🎓 Accounting Graduate | 📊 Data Analyst | 💻 Frontend Developer
 
 I’m passionate about transforming raw data into meaningful insights that support better decision-making.
 </div>
