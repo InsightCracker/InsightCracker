@@ -16,7 +16,7 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 - 📊 Passionate about Data Analysis, Visualization, and Business Intelligence
 - 👯 Open to collaborating with other Data Analysts
 - 🎯 Currently seeking a Data Analytics Internship
-- 🚀 Building <a href= 'https://www.dataxo.cfd/'>DataXO</a> – a platform to help people learn and practice Data Analysis concepts
+- 🚀 Building <a href= 'https://www.dataxo.cfd/'>DataEre</a> – a platform to help people learn and practice Data Analytics concepts
 - 🎵 Fun fact: I love listening to music while analyzing data
 
 ### 🛠️ Tools & Technologies
@@ -38,7 +38,7 @@ I’m passionate about transforming raw data into meaningful insights that suppo
 - CSS3
 
 ### 🚀 Projects
-📊 <a href= 'https://www.dataxo.cfd/'>DataXO</a> – Data Learning & Analytics Platform
+📊 <a href= 'https://www.dataxo.cfd/'>DataEre</a> – Data Learning & Analytics Platform
 
 A platform designed to help aspiring analysts learn, practice, and test their knowledge of data tools.
 
